@@ -403,22 +403,22 @@ body.nav-active { overflow: hidden; }
 
 .hero-banner { display: none; }
 
-/* .hero {
-  background-color: var(--midnight-green);
-  --section-padding: 200px;
-  background-repeat: no-repeat;
-  background-size: cover;
-} */
-
-
-
 .hero {
   background-color: var(--midnight-green);
   --section-padding: 200px;
   background-repeat: no-repeat;
   background-size: cover;
-  width: 50vh;
 }
+
+
+
+/* .hero {
+  background-color: var(--midnight-green);
+  --section-padding: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 50vh;
+} */
 
 
 .hero-subtitle {
